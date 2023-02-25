@@ -1,0 +1,674 @@
+[15:27:04] [ServerMain/INFO]: Building unoptimized datafixer
+[15:27:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:27:06] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[15:27:09] [ServerMain/INFO]: Loaded 7 recipes
+[15:27:11] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[15:27:11] [Server thread/INFO]: Loading properties
+[15:27:11] [Server thread/INFO]: This server is running CraftBukkit version 3661-Spigot-19641c7-8434e36 (MC: 1.19.3) (Implementing API version 1.19.3-R0.1-SNAPSHOT)
+[15:27:11] [Server thread/INFO]: Debug logging is disabled
+[15:27:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:27:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:27:11] [Server thread/INFO]: Default game type: SURVIVAL
+[15:27:11] [Server thread/INFO]: Generating keypair
+[15:27:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:27:11] [Server thread/INFO]: Using epoll channel type
+[15:27:12] [Server thread/INFO]: Preparing level "world"
+[15:27:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:27:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:27:12] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:27:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:27:12] [Server thread/INFO]: View Distance: 10
+[15:27:12] [Server thread/INFO]: Simulation Distance: 10
+[15:27:12] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:27:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:27:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:27:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:27:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:27:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:27:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:27:12] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:27:12] [Server thread/INFO]: Mob Spawn Range: 6
+[15:27:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:27:12] [Server thread/INFO]: Max TNT Explosions: 100
+[15:27:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:27:30] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:27:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:27:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:27:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:27:30] [Server thread/INFO]: View Distance: 10
+[15:27:30] [Server thread/INFO]: Simulation Distance: 10
+[15:27:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:27:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:27:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:27:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:27:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:27:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:27:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:27:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:27:30] [Server thread/INFO]: Mob Spawn Range: 6
+[15:27:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:27:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:27:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:27:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:27:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:27:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:27:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:27:34] [Server thread/INFO]: View Distance: 10
+[15:27:34] [Server thread/INFO]: Simulation Distance: 10
+[15:27:34] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:27:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:27:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:27:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:27:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:27:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:27:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:27:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:27:34] [Server thread/INFO]: Mob Spawn Range: 6
+[15:27:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:27:34] [Server thread/INFO]: Max TNT Explosions: 100
+[15:27:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:27:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:27:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:22] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:28:59] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:00] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:03] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:06] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[15:29:06] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[15:29:07] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[15:29:07] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[15:29:08] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[15:29:08] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[15:29:09] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[15:29:09] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[15:29:10] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[15:29:10] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[15:29:11] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[15:29:12] [Worker-Main-6/INFO]: Preparing spawn area: 22%
+[15:29:12] [Worker-Main-6/INFO]: Preparing spawn area: 22%
+[15:29:12] [Worker-Main-6/INFO]: Preparing spawn area: 29%
+[15:29:13] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[15:29:13] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[15:29:14] [Worker-Main-6/INFO]: Preparing spawn area: 38%
+[15:29:14] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[15:29:15] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[15:29:15] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[15:29:16] [Worker-Main-6/INFO]: Preparing spawn area: 47%
+[15:29:18] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:29:18] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:29:18] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:29:18] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:29:18] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[15:29:20] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[15:29:20] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[15:29:20] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[15:29:20] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:29:22] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:29:22] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:29:22] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:29:22] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[15:29:23] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:29:23] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[15:29:24] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[15:29:25] [Server thread/INFO]: Time elapsed: 108633 ms
+[15:29:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:27] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:28] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:30] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:32] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:36] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:39] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:40] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:46] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:51] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:53] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:55] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:57] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:29:58] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[15:29:59] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[15:29:59] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[15:30:00] [Worker-Main-6/INFO]: Preparing spawn area: 26%
+[15:30:01] [Worker-Main-6/INFO]: Preparing spawn area: 26%
+[15:30:01] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[15:30:01] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[15:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 38%
+[15:30:02] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[15:30:03] [Worker-Main-6/INFO]: Preparing spawn area: 49%
+[15:30:03] [Worker-Main-6/INFO]: Preparing spawn area: 50%
+[15:30:04] [Worker-Main-6/INFO]: Preparing spawn area: 61%
+[15:30:04] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[15:30:05] [Worker-Main-6/INFO]: Preparing spawn area: 72%
+[15:30:06] [Worker-Main-6/INFO]: Preparing spawn area: 76%
+[15:30:06] [Worker-Main-6/INFO]: Preparing spawn area: 76%
+[15:30:06] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[15:30:07] [Worker-Main-6/INFO]: Preparing spawn area: 86%
+[15:30:07] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[15:30:08] [Worker-Main-6/INFO]: Preparing spawn area: 95%
+[15:30:08] [Server thread/INFO]: Time elapsed: 43528 ms
+[15:30:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:30:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:10] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:30:18] [Server thread/INFO]: Time elapsed: 10228 ms
+[15:30:19] [Server thread/INFO]: Done (186.427s)! For help, type "help"
+[15:31:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[15:31:24] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[15:31:24] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[15:31:24] [Server thread/INFO]: [0;37;22m[0;33;22mAliases: [0;37;1mLists command aliases[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/attribute: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/fillbiome: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/help: [0;37;1mShows the help menu[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/item: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/jfr: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/loot: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/perf: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/place: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/restart: [0;37;1mRestarts the server[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/schedule: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/spectate: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[15:31:24] [Server thread/INFO]: [0;37;1m[0;33;22m/teammsg: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/tm: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[15:31:25] [Server thread/INFO]: [0;37;1m[0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[15:32:58] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[15:32:58] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[15:32:59] [Server thread/INFO]: Debug logging is disabled
+[15:32:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:32:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:32:59] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:32:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:32:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:32:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:32:59] [Server thread/INFO]: View Distance: 10
+[15:32:59] [Server thread/INFO]: Simulation Distance: 10
+[15:32:59] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:32:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:32:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:32:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:32:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:32:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:32:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:32:59] [Server thread/INFO]: Mob Spawn Range: 6
+[15:32:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:32:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:32:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:32:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:32:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:32:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:32:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:32:59] [Server thread/INFO]: View Distance: 10
+[15:32:59] [Server thread/INFO]: Simulation Distance: 10
+[15:32:59] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:32:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:32:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:32:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:32:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:32:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:32:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:32:59] [Server thread/INFO]: Mob Spawn Range: 6
+[15:32:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:32:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:32:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:32:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:32:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:32:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:32:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:32:59] [Server thread/INFO]: View Distance: 10
+[15:32:59] [Server thread/INFO]: Simulation Distance: 10
+[15:32:59] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:32:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:32:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:32:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[15:32:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:32:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[15:32:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[15:32:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:32:59] [Server thread/INFO]: Mob Spawn Range: 6
+[15:32:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:32:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:32:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:32:59] [Server thread/INFO]: Loaded 7 recipes
+[15:33:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:33:00] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[15:33:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[15:33:32] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117) ~[spigot-1.19.3-R0.1-SNAPSHOT.jar:3661-Spigot-19641c7-8434e36]
